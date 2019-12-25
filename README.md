@@ -15,6 +15,7 @@ Data Information
 There are files given: train, test and submission. Your submission file must adhere to format specified in the given submission file. This data set comprises of information captured in December 2016. Following is the description of variables given:
 
 Variable	Description
+
 member_id	unique ID assigned to each member
 loan_amnt	loan amount ($) applied by the member
 funded_amnt	loan amount ($) sanctioned by the bank
@@ -60,3 +61,6 @@ tot_coll_amt	total collection amount ever owed
 tot_cur_bal	total current balance of all accounts
 total_rev_hi_lim	total revolving credit limit
 loan_status	status of loan amount, 1 = Defaulter, 0 = Non Defaulters
+
+
+https://www.hackerearth.com/problem/machine-learning/bank-fears-loanliness/
